@@ -19,7 +19,6 @@ public class ProjectFileModified implements Serializable{
     public void setModifiedFileCodeCount(int modifiedFileCodeCount) {
         this.modifiedFileCodeCount = modifiedFileCodeCount;
     }
-
     public String getModifiedFileName() {
         return modifiedFileName;
     }
